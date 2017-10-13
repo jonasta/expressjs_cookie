@@ -1,0 +1,22 @@
+{
+  "name": "expressjs_cookie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasta/expressjs_cookie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasta/expressjs_cookie/issues"
+  },
+  "homepage": "https://github.com/jonasta/expressjs_cookie#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
