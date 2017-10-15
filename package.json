@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/jonasta/expressjs_cookie#readme",
   "dependencies": {
+    "basic-auth": "^2.0.0",
+    "basicauth-middleware": "^2.0.0",
+    "body-parser": "^1.18.2",
     "connect-redis": "^3.3.2",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.2",
-    "express-session": "^1.15.6"
+    "express-basic-auth": "^1.1.2",
+    "express-session": "^1.15.6",
+    "jade": "^1.11.0"
   }
 }
