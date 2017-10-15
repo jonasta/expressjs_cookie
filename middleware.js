@@ -15,6 +15,7 @@ var singleInterceptor = function (req, res, next) {
 
 app.use(globalInterceptor);
 
+
 app.get('/', function (req, res) {
   res.send('default');
 });
